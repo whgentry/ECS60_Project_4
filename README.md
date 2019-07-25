@@ -1,6 +1,6 @@
 # ECS60 Project 4: Shortest Route Calculator
 This program will generate random coordinates within the Davis city limits.
-Uses and OSM file of all the streets and intersections to calculate shortes route and fastest route
+Uses an OSM file of all the streets and intersections to calculate shortest route and fastest route
 Tested and on Ubunutu 18.04
 
 ## Resources
